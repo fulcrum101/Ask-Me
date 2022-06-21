@@ -1,0 +1,8 @@
+Information about Ask Me Discord bot commands.
+
+!I - prints information about available commands
+!Q text - Answers Your question.
+!F text - Have a friendly chat.
+!S text - Chat with Marv. Marv is a factual chatbot that is also sarcastic.
+!R meal ingredient1 ingredient2 ... - Create a recipe from meal name and  a list of ingredients.
+!T topic - Provide a topic and get study notes.
