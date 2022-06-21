@@ -2,7 +2,7 @@ import os
 
 import discord
 from discord.ext import commands
-from dotenv import load_dotenv
+
 
 from OpenAI_FC import F_C
 from OpenAI_QA import Q_A
@@ -10,7 +10,6 @@ from OpenAI_R import R
 from OpenAI_SM import S_M
 from OpenAI_ST import S_T
 
-load_dotenv()
 TOKEN = os.environ['TOKEN']
 
 intents = discord.Intents.default()
